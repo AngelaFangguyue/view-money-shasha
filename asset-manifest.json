@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/view-money-shasha/static/css/main.1fb8231d.chunk.css",
+    "main.js": "/view-money-shasha/static/js/main.aee7592e.chunk.js",
+    "main.js.map": "/view-money-shasha/static/js/main.aee7592e.chunk.js.map",
+    "runtime-main.js": "/view-money-shasha/static/js/runtime-main.c3e1b6e2.js",
+    "runtime-main.js.map": "/view-money-shasha/static/js/runtime-main.c3e1b6e2.js.map",
+    "static/js/2.2298e01c.chunk.js": "/view-money-shasha/static/js/2.2298e01c.chunk.js",
+    "static/js/2.2298e01c.chunk.js.map": "/view-money-shasha/static/js/2.2298e01c.chunk.js.map",
+    "index.html": "/view-money-shasha/index.html",
+    "precache-manifest.810838b9e419c43647bed123038ba8d1.js": "/view-money-shasha/precache-manifest.810838b9e419c43647bed123038ba8d1.js",
+    "service-worker.js": "/view-money-shasha/service-worker.js",
+    "static/css/main.1fb8231d.chunk.css.map": "/view-money-shasha/static/css/main.1fb8231d.chunk.css.map",
+    "static/js/2.2298e01c.chunk.js.LICENSE.txt": "/view-money-shasha/static/js/2.2298e01c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e1b6e2.js",
+    "static/js/2.2298e01c.chunk.js",
+    "static/css/main.1fb8231d.chunk.css",
+    "static/js/main.aee7592e.chunk.js"
+  ]
+}
